@@ -14,6 +14,7 @@ import model.Credentials;
 
 public class MainActivity extends AppCompatActivity {
 
+    // This is Paul
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
